@@ -1,2 +1,4 @@
 # esp32-u2f-bl2
-Implementation of U2F on ESP32
+Implementation of the FIDO Universal 2nd Factor (U2F) protocol on ESP32 olver Bluetooth LE.
+
+This is an project for the Arduino IDE.
